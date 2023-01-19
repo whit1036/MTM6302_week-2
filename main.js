@@ -48,4 +48,9 @@ const students = [
 
 console.log(students[1].lastName)
 
-// 9. Operators 
+// 9. Operators
+
+let points = 6
+points -= 5;
+
+console.log( points )
